@@ -1,11 +1,18 @@
-![Thumbnail video tutorial](https://user-images.githubusercontent.com/6551176/233513056-525d827e-e8fa-4b57-901a-b05175505a55.jpg)
+# Noel Pereira 3D Plane Idea
 
-[Live Demo](https://r3f-wawatmos-final.vercel.app/)
+### Installation
 
-[Video tutorial](https://youtu.be/8r8rzp8t2aM)
+1. Clone the repo
+   ```sh
+   git clone https://github.com/noelp2500/Noel3DPlaneResumeIdea.git
+   ```
+2. Install NPM packages
 
-[Starter pack](https://github.com/wass08/r3f-wawatmos-starter)
+   ```sh
+   yarn install
+   ```
 
-### 3D Model credits
-
-Airplane by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/8VysVKMXN2J)
+3. Runs the app in the development mode
+   ```sh
+   yarn run
+   ```
