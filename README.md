@@ -14,5 +14,5 @@
 
 3. Runs the app in the development mode
    ```sh
-   yarn run
+   yarn dev
    ```
